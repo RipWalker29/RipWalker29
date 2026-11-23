@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/RipWalker29/images/main/blockpose-20261123-134604.png)
+![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/RipWalker29/images/main/%7B3904EC8B-613F-4D47-8500-ACFC93CB5E8D%7D%20(1)_Nero_AI_Image_Upscaler_Prime.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
