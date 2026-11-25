@@ -50,7 +50,7 @@
 </a>
 </p>
 
-mejorame #### 📫 How to reach me
+#### 📫 How to reach me
 - Discord: [`ripwalker_29`](https://discord.com/users/1360665843113136129)
 - Email: [`Click To Mail!`](Ripwalker29@protonmail.com) or copy **`Ripwalker29@protonmail.com`**
 - Or Contact me in this discord server: [WaffleMC!](https://discord.gg/CCnvZbTjr3)
