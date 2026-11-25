@@ -54,6 +54,8 @@
 - Discord: [`ripwalker_29`](https://discord.com/users/1360665843113136129)
 - Email: [`Click To Mail!`](mailto:Ripwalker29@protonmail.com) or copy **`Ripwalker29@protonmail.com`**
 - Or Contact me in this discord server: [WaffleMC!](https://discord.gg/CCnvZbTjr3)
+  
+[![discord](https://discord.com/api/guilds/1495156172435493094/widget.png?style=banner2)](https://discord.gg/CCnvZbTjr3)
 
 -----
 Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
