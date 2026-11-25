@@ -41,26 +41,6 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-#### 📫 How to reach me
-- Discord: [`ripwalker_29`](https://discord.com/users/1360665843113136129)
-- Email: [`Click To Mail!`](mailto:Ripwalker29@protonmail.com) or copy **`Ripwalker29@protonmail.com`**
-- Or Contact me in this discord server: [WaffleMC!](https://discord.gg/CCnvZbTjr3)
-  
-[![discord](https://discord.com/api/guilds/1495156172435493094/widget.png?style=banner2)](https://discord.gg/CCnvZbTjr3)
-
------
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
-
-Last Edited on: 11/12/2020
 ### 📈 Activity Graph
  
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RipWalker29&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -69,3 +49,10 @@ Last Edited on: 11/12/2020
  <div align=center>
   
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=RipWalker29&show_icons=true&locale=en&layout=compact&theme=radical)]()  
+
+#### 📫 How to reach me
+- Discord: [`ripwalker_29`](https://discord.com/users/1360665843113136129)
+- Email: [`Click To Mail!`](mailto:Ripwalker29@protonmail.com) or copy **`Ripwalker29@protonmail.com`**
+- Or Contact me in this discord server: [WaffleMC!](https://discord.gg/CCnvZbTjr3)
+  
+[![discord](https://discord.com/api/guilds/1495156172435493094/widget.png?style=banner2)](https://discord.gg/CCnvZbTjr3)
