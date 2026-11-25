@@ -41,12 +41,10 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-### 📈 Activity Graph
+
+
  
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RipWalker29&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-### 📊 Most Used Language
-
- <div align=center>
   
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=RipWalker29&show_icons=true&locale=en&layout=compact&theme=radical)]()  
 
